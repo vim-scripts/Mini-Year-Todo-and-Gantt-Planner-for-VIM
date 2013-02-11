@@ -1,0 +1,40 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4429
+
+
+
+"
+" Mini Year Planner for VIM 
+" version 0.01
+"
+" Needs some joint efforts for a newer release, please.
+" todo:
+" Simple Tabulation of the months
+ 
+" -----------------------------------------------------------
+" How to ? 
+" Select the first line (###################) with shift+v 
+" then press ,q 
+" and you will see that it will attempt to draw you the tabs for the year 
+" If you enter 1testa;2    then it will prolongate the "#" line to reach the
+" tabulation of the number 2
+" -----------------------------------------------------------
+
+
+
+
+" Example - Simple Project Bar Planner for the current year
+" -----------------------------------------------------------
+"                    #########################################################################
+"                         1     2     3     4     5     6     7     8     9     10     11     12     
+"1testa;    2;
+"2testa;3.5;3.5;     #########(1m)###########
+"testa; dsfkasdf;
+"testa;dsfkasdf;
+"5testa ;10.2;10.2;  #########(1m)#################################################
+"6testa ;8.2;8.2;    #########(8m)#####################################
+"
+
+
+
+
+
